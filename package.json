@@ -1,0 +1,24 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "movie app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popingpaul/movie.git"
+  },
+  "author": "popingpaul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popingpaul/movie/issues"
+  },
+  "homepage": "https://github.com/popingpaul/movie#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  }
+}
